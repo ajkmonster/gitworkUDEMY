@@ -9,3 +9,5 @@ new differences
 new changesses for branch
 
 This is bound to cause trouble
+
+stash
